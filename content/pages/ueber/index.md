@@ -1,5 +1,5 @@
 +++
-title = "Lukas Veraguth"
+title = "Bildnerisches Gestalten"
 draft = false
 image = ""
 description = ""
