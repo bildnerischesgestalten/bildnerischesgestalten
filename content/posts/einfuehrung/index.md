@@ -20,3 +20,5 @@ Hier ein paar Impressionen aus dem Weiterbildungskurs:
 ![Blick von der Münsterplattform in Richtung Kirchenfeldbrücke (Fineliner und Aquarellfarbe)](img_5834urban_skeching_k.jpg)
 
 ![PostFinance-Arena skizziert mit unterschiedlicher Geschwindigkeit (10 Minuten bis zu 30 Sekunden)](img_5816urban_k.jpg)
+
+![Berner Altstadt (skizzieren auf getöntes Papier)](img_5827_ko_urban.jpg)
