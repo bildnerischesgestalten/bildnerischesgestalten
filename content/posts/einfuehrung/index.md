@@ -18,4 +18,8 @@ footnotes = ""
 
 Urban Sketching
 
-![Berner Altstadt](img_5831_urban_k.jpg)
+![Berner Altstadt (Fineliner und Kaffee)](img_5831_urban_k.jpg)
+
+![Münsterplattform Blick in Richtung Kirchenfeldbrücke (Fineliner und Aquarellfarbe)](img_5834urban_skeching_k.jpg)
+
+![PostFinance-Arena skizziert in unterschiedlicher Geschwindigkeit (10 Minuten bis zu 30 Sekunden)](img_5816urban_k.jpg)
