@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/img_5837_bg.jpg"
 color = ""
 +++
-
