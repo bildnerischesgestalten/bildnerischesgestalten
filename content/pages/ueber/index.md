@@ -6,4 +6,4 @@ description = ""
 +++
 ![lukas.veraguth@bwdbern.ch](/img/default-author.png)
 
-## Bildnerisches Gestalten
+## Lukas Veraguth
