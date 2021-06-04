@@ -10,16 +10,12 @@ footnotes = ""
 +++
 
 
-# Urban Sketching 
+# Weiterbildung "Urban Sketching" 
 
-## Weiterbildung
-
-
+![Berner Altstadt (Fineliner und Kaffee)](img_5831_urban_k.jpg)
 
 An zwei Abenden im Mai und Juni 2021 fand die Weiterbildung zum Thema "Urban Sketching" am bwd statt. In einer Kleingruppe haben wir an unterschiedlichen Standorten im Wankdorf und in der Berner Altstadt skizziert. Beim Urban Sketching steht das gemeinsame Zeichnen im urbanen Raum im Zentrum. Die entstandenen Zeichnungen bleiben nicht im Skizzenbuch versteckt, sondern werden direkt im Internet veröffentlicht. So wie dies  zum Beispiel in diesem Blog der Fall ist. \
 Beim Urban Sketching geht es darum in relativ kurzer Zeit eine urbane Szene zu vereinfachen und ins Skizzenbuch zu zeichnen und flüchtige Momente einzufangen.
-
-![Berner Altstadt (Fineliner und Kaffee)](img_5831_urban_k.jpg)
 
 ![Blick von der Münsterplattform in Richtung Kirchenfeldbrücke (Fineliner und Aquarellfarbe)](img_5834urban_skeching_k.jpg)
 
