@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Bildnerisches Gestalten"
-description = "Blog"
+description = "Lukas Veraguth"
 footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
 footerRight = ""
 +++
