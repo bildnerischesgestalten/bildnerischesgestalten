@@ -4,6 +4,6 @@ draft = false
 image = ""
 description = ""
 +++
-![lukas.veraguth@bwdbern.ch](img_5837_bg.jpg)
+![](img_5837_bg.jpg)
 
 ## Lukas Veraguth
