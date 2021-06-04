@@ -4,6 +4,6 @@ draft = false
 image = ""
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![lukas.veraguth@bwdbern.ch](/img/default-author.png)
 
 ## Bildnerisches Gestalten
